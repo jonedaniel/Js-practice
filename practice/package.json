@@ -1,0 +1,14 @@
+{
+  "name": "practice_zmh",
+  "version": "1.0.0",
+  "description": "zhaomenghui practice pure js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "zhaomenghui",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

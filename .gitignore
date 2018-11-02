@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+_book/
+*/node_modules
+*/npm-debug.log
+*/package-lock.json
+*/upload-files/
+upload-async/static/image/
